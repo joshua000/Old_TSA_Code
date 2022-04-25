@@ -231,26 +231,3 @@ task usercontrol()
 		motor[MotorLeft] = motor[MotorRight] = 0;
 	}
 }
-
-/*
-NOTHING IS FINAL, THE TIDE CAN SHIFT
-
-This is a brefing room for this next year.
-
-obj 1. get the cones to flip and be mounted onto the poles
-obj 2. park the robit on the tall park spot
-obj 3. ato code
-obj 4. flip the flags to earn us more points (First flip then shoot)
-
-possibly switch the last two as this will allow for more points to be scored
-
-The two ways of fliping:
-	On claw ~Best but is heavy
-	On Bot ~Not super awsome, but is more effective
-
-
-
-
-
-
-*/
