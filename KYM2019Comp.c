@@ -1,3 +1,4 @@
+//I will have to find where our final code went, this is a really early framework.
 #pragma config(Sensor, in1,    ArmThang,       sensorPotentiometer)
 #pragma config(Sensor, dgtl1,  the_thing,      sensorTouch)
 #pragma config(Sensor, dgtl2,  yes,            sensorTouch)
